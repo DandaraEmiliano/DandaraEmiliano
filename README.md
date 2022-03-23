@@ -1,4 +1,4 @@
-## Olá, eu sou a Dandara Emiliano!
+## Oiiii, sou a Dandara Emiliano!
 
 <div align="center">
   <a href="https://github.com/DandaraEmiliano">
