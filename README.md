@@ -26,5 +26,3 @@
 
   
 </div>
-
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DandaraEmiliano&repo=DandaraEmiliano&theme=react)](https://github.com/DandaraEmiliano)
