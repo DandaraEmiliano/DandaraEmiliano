@@ -1,11 +1,9 @@
-# Oiiii, sou a Dandara Emiliano! 👋
+# Hi, I'm Dandara 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DandaraEmiliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraEmiliano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+👩🏻‍💻 Passionate about horror movies, football, and technology, I began my professional journey as a software engineer in January 2016. Over the years, I've had the opportunity to work on various projects, solidifying my expertise in building scalable and robust applications, both within microservices architectures and monolithic systems, particularly in the Node.js ecosystem.
 
-## Tecnologias que eu domino:
+
+## Technologies:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,7 +17,7 @@
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-## Vamos nos conectar?
+## Let's connect?
 <div> 
   <a href="https://www.linkedin.com/in/dandara-emiliano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
