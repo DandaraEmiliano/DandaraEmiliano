@@ -1,6 +1,6 @@
 # Hi, I'm Dandara 👋
 
-👩🏻‍💻 Passionate about horror movies, football, and technology, I began my professional journey as a software engineer in January 2016. Over the years, I've had the opportunity to work on various projects, solidifying my expertise in building scalable and robust applications, both within microservices architectures and monolithic systems, particularly in the Node.js ecosystem.
+👩🏻‍💻 Passionate about horror films and technology, I started my professional career as a back-end developer. Over the years, I had the opportunity to work on several projects, solidifying my expertise in building scalable and robust applications, both in microservices architectures and monolithic systems.
 
 
 ## Technologies:
