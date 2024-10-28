@@ -1,6 +1,6 @@
 # Hi, I'm Dandara 👋
 
-👩🏻‍💻 **Back-end Developer | 🌍 Travel Enthusiast**
+👩🏻‍💻 **Software Engineer | 🌍 Travel Enthusiast**https://github.com/DandaraEmiliano/DandaraEmiliano/blob/main/README.md
 
 Passionate about technology, I began my career as a back-end developer, crafting scalable and resilient applications. Over the years, I've worked on diverse projects, gaining expertise in both microservices and monolithic architectures while exploring new places.
 
