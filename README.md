@@ -25,5 +25,3 @@ Passionate about technology, I began my career as a back-end developer, crafting
 
 ## Let's connect?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dandara-emiliano/)
-
-![Snake animation](https://github.com/DandaraEmiliano/DandaraEmiliano/blob/output/github-contribution-grid-snake.svg)
