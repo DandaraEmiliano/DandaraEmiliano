@@ -2,7 +2,7 @@
 
 👩🏻‍💻 **Software Engineer | 🌍 Travel Enthusiast**
 
-I am a Senior Software Engineer with over 7 years of experience in designing, building, and maintaining scalable APIs. 
+I am a Software Engineer with over 7 years of experience in designing, building, and maintaining scalable APIs. 
 
 ---
 
