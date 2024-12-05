@@ -2,7 +2,7 @@
 
 👩🏻‍💻 **Software Engineer | 🌍 Travel Enthusiast**
 
-I am a Software Engineer with over 7 years of experience in designing, building, and maintaining scalable APIs. 
+I am a Software Engineer with a solid foundation in Java, building scalable and robust applications using Spring Boot and AWS cloud services.
 
 ---
 
@@ -10,7 +10,7 @@ I am a Software Engineer with over 7 years of experience in designing, building,
 - **Programming Languages**: Java | TypeScript | JavaScript
 - **Frameworks**: Spring Boot | Node.js (Express.js) | NestJS
 - **Databases**: PostgreSQL | MySQL | MongoDB | SQlite | Redis 
-- **Cloud Platforms**: AWS (EC2, S3, RDS) | Google Cloud Platform (GCP)
+- **Cloud Platforms**: AWS (EC2, S3, SNS, SQS, RDS) | Google Cloud Platform (GCP)
 - **DevOps Tools**: Docker | Kubernetes | Terraform
 - **Testing**: JUnit | Mockito | Jest
 - **CI/CD**: Jenkins | GitLab CI | GitHub Actions 
