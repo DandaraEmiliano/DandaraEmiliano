@@ -2,18 +2,19 @@
 
 👩🏻‍💻 **Software Engineer | 🌍 Travel Enthusiast**
 
-Passionate about technology, I began my career as a back-end developer, crafting scalable and resilient applications. Over the years, I've worked on diverse projects, gaining expertise in both microservices and monolithic architectures while exploring new places.
+I am a Senior Software Engineer with over 7 years of experience in designing, building, and maintaining scalable APIs. 
 
 ---
 
 ### 🚀 Tech Stack
-
-- **Primary Languages & Frameworks**: Java ☕, Spring Boot, Hibernate
-- **Additional Languages**: JavaScript, TypeScript
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Cloud**: Docker 🐳, Kubernetes, AWS ☁️
-- **CI/CD & Monitoring**: Jenkins, Kafka, Dynatrace, Kibana
-
+- **Programming Languages**: Java | TypeScript | JavaScript
+- **Frameworks**: Spring Boot | Node.js (Express.js) | NestJS
+- **Databases**: PostgreSQL | MySQL | MongoDB | SQlite | Redis 
+- **Cloud Platforms**: AWS (EC2, S3, RDS) | Google Cloud Platform (GCP)
+- **DevOps Tools**: Docker | Kubernetes | Terraform
+- **Testing**: JUnit | Mockito | Jest
+- **CI/CD**: Jenkins | GitLab CI | GitHub Actions 
+- **Monitoring**: DataDog | Grafana | Dynatrace | Prometheus | ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ---
 
