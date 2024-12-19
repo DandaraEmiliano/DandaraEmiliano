@@ -13,8 +13,8 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: "DandaraEmiliano"
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
