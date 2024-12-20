@@ -1,6 +1,6 @@
 # Hi, I'm Dandara 👋
 
-👩🏻‍💻 **Software Engineer 
+👩🏻‍💻 **Software Engineer**
 
 I am a Software Engineer with a solid foundation in Java, building scalable and robust applications using Spring Boot and AWS cloud services.
 
