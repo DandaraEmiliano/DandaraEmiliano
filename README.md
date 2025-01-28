@@ -7,10 +7,10 @@ I am a Software Engineer with a solid foundation in Java, building scalable and 
 ---
 
 ### 🚀 Tech Stack
-- **Programming Languages**: Java | TypeScript | JavaScript
-- **Frameworks**: Spring Boot | Node.js (Express.js) | NestJS
+- **Programming Languages**: Java | Go | TypeScript | JavaScript
+- **Frameworks**: Spring Boot | Gin | Node.js (Express.js) | NestJS
 - **Databases**: PostgreSQL | MySQL | MongoDB | SQlite | Redis 
-- **Cloud Platforms**: AWS (EC2, S3, SNS, SQS, RDS) | Google Cloud Platform (GCP)
+- **Cloud Platforms**: Azure | AWS (EC2, S3, SNS, SQS, RDS) | Google Cloud Platform (GCP) Pub/Sub, Serveless
 - **DevOps Tools**: Docker | Kubernetes | Terraform
 - **Testing**: JUnit | Mockito | Jest
 - **CI/CD**: Jenkins | GitLab CI | GitHub Actions 
