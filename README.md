@@ -1,20 +1,30 @@
-# Hi, I’m Dandara 💻
+<p align="center">
+  <img src="assets/header.jpg" width="100%" alt="Dandara Emiliano · Senior Backend Engineer">
+</p>
 
-**Senior Backend Engineer · Java Ecosystem · Distributed Systems**
+<p align="center">
+  <strong>Distributed systems · Event streaming · High-volume data processing</strong><br>
+  <a href="https://www.linkedin.com/in/dandara-emiliano/">LinkedIn</a> · <a href="https://github.com/DandaraEmiliano?tab=repositories">Repositories</a>
+</p>
 
-What happens when traffic spikes, a Kafka consumer falls behind, or the same event arrives twice? Those are the backend problems I like to work on.
+## About me
 
-I build Java and Spring Boot services that handle high volumes of data. My work spans API design, event-driven systems with Kafka, and data modeling with PostgreSQL and MongoDB. I care about what happens after the code ships: how we spot a bottleneck, how services recover from failures, and how we keep the system easy to change.
+I’m Dandara, a Senior Backend Engineer focused on Java and distributed systems. I build APIs with Spring Boot and use Kafka to move and process data across services.
+
+I’m drawn to the details that matter in production. What happens when a consumer falls behind? Can we retry an operation safely? Can we trace it from the API request to the event it produced? I enjoy working through those questions with my team, making trade-offs explicit and testing the failure paths we expect to see in production.
 
 ### My day-to-day stack
 
-- **Java & APIs** — Java, JVM, Spring Boot, REST APIs, OpenAPI
-- **Event streaming & distributed systems** — Apache Kafka, event-driven architecture, high-volume data processing, idempotency, retries
-- **Databases & persistence** — PostgreSQL, MongoDB, Spring Data, Hibernate/JPA, Flyway
-- **Testing** — JUnit 5, Mockito, Testcontainers, WireMock
-- **Observability** — Micrometer, OpenTelemetry, Prometheus, Grafana, structured logging
-- **Build & CI/CD** — Maven or Gradle, GitHub Actions
-- **Containers & infrastructure** — Docker, Kubernetes, Terraform
-- **Cloud & edge** — AWS, Google Cloud (GCP), Cloudflare
+| Area | Tools & practices |
+| :--- | :--- |
+| **Java & APIs** | `Java` · `JVM` · `Spring Boot` · `REST APIs` · `OpenAPI` |
+| **Event streaming** | `Apache Kafka` · Event-driven architecture · High-volume data processing · Idempotency · Retries |
+| **Persistence** | `PostgreSQL` · `MongoDB` · `Spring Data` · `Hibernate/JPA` · `Flyway` |
+| **Testing** | `JUnit 5` · `Mockito` · `Testcontainers` · `WireMock` |
+| **Observability** | `Micrometer` · `OpenTelemetry` · `Prometheus` · `Grafana` · Structured logs |
+| **Build & CI/CD** | `Maven` / `Gradle` · `GitHub Actions` |
+| **Cloud & infrastructure** | `AWS` · `Google Cloud` · `Cloudflare` · `Docker` · `Kubernetes` · `Terraform` |
 
-[LinkedIn](https://www.linkedin.com/in/dandara-emiliano/)
+### Featured project
+
+[**Task Management API**](https://github.com/DandaraEmiliano/todolist) · A Java 17 and Spring Boot REST API for user authentication and task management, built with Maven and JPA/Hibernate.
