@@ -27,6 +27,6 @@ I’m drawn to the details that matter in production. What happens when a consum
 
 ### Featured projects
 
-[**Virelo Pagamentos**](https://github.com/DandaraEmiliano/virelo-payments) · A Java and Spring Boot checkout demo for Pix, credit, and debit, with idempotent payment attempts and integration tests.
+[**Virelo Pagamentos**](https://github.com/DandaraEmiliano/virelo-payments) · A Java and Spring Boot checkout demo for Pix, credit, and debit, with idempotent payment attempts and integration tests. [Live demo](https://virelo-payments.onrender.com/)
 
 [**Task Management API**](https://github.com/DandaraEmiliano/todolist) · A Java 17 and Spring Boot REST API for user authentication and task management, built with Maven and JPA/Hibernate.
