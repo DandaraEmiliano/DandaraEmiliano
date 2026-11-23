@@ -17,4 +17,4 @@ I build Java and Spring Boot services that handle high volumes of data. My work 
 - **Containers & infrastructure** — Docker, Kubernetes, Terraform
 - **Cloud & edge** — AWS, Google Cloud (GCP), Cloudflare
 
-[Find me on LinkedIn](https://www.linkedin.com/in/dandara-emiliano/)
+[LinkedIn](https://www.linkedin.com/in/dandara-emiliano/)
