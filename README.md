@@ -25,6 +25,8 @@ I’m drawn to the details that matter in production. What happens when a consum
 | **Build & CI/CD** | `Maven` / `Gradle` · `GitHub Actions` |
 | **Cloud & infrastructure** | `AWS` · `Google Cloud` · `Cloudflare` · `Docker` · `Kubernetes` · `Terraform` |
 
-### Featured project
+### Featured projects
+
+[**Virelo Pagamentos**](https://github.com/DandaraEmiliano/virelo-payments) · A Java and Spring Boot checkout demo for Pix, credit, and debit, with idempotent payment attempts and integration tests.
 
 [**Task Management API**](https://github.com/DandaraEmiliano/todolist) · A Java 17 and Spring Boot REST API for user authentication and task management, built with Maven and JPA/Hibernate.
